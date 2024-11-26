@@ -14,22 +14,22 @@
 
     section {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 1.3em;
+        font-size: 1.1em;
         padding-top: 5vh;
         padding-bottom: 5vh;
     }
 
     section > p {font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 1.3em;
+        font-size: 1.1em;
 
     }
 
     section.imagem {
-                background-position: center center;
+                background-position: right right;
                 background-size: cover;
                 background-attachment: scroll;
 
     }
 
-    footer {font-size: 3vw;}
+    footer {font-size: 3.5vw;}
 }
