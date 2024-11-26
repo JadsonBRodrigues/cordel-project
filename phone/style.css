@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 250px) and (max-width: 768px) {
+
+    header > h1 {
+        font-size: 2em;
+    }
+
+    header > p {
+        font-size: 2em;
+    }
+
+    section {font-size: 2em;
+
+    }
+
+    section > p {font-size: 2em;
+
+    }
+}
