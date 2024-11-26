@@ -8,9 +8,11 @@
         font-size: 2vw;
     }
 
-    section {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    section {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 1.3em;
-
+        padding-top: 5vh;
+        padding-bottom: 5vh;
     }
 
     section > p {font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -18,7 +20,8 @@
 
     }
 
-    section.imagem {background-size: contain;
+    section.imagem {background-size: none;
+                    background-attachment: none;
 
     }
 }
